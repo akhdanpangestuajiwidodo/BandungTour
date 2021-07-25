@@ -36,6 +36,15 @@ class DetailScreen extends StatelessWidget{
                 ),
               ),
             ),
+
+            Container(
+              margin: EdgeInsets.symmetric(vertical: 16.0),
+              child: Row(
+                children: [
+
+                ],
+              ),
+            ),
           ],
         ),
       ),
